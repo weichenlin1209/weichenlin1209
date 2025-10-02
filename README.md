@@ -8,7 +8,7 @@ I'm Whisky, a sophomore college major in applied math.
 - Hugo
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=windson&show_icons=true&theme=radical&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weichenlin1209&show_icons=true&theme=radical&langs_count=6)
 
 ## Link
 - [My blog](https://www.windson.cc/)
