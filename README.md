@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Whisky, a sophomore college major in applied math.
+I'm Whisky, a sophomore college student ,major in applied math.
 
 ## 🔧 Technologies & Tools
 - Linux
