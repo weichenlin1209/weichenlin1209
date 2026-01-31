@@ -1,14 +1,11 @@
 # Hi there 👋
 
-I'm Whisky, a sophomore college student ,major in applied math.
+I'm Windson, a sophomore college student in Taiwan,major in Applied Math. Recently, I 'm focusing on CTF.
 
 ## 🔧 Technologies & Tools
 - Linux
 - Raspberry pi 5
-- Hugo
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=weichenlin1209&show_icons=true&theme=radical&langs_count=6)
+- Astro
 
 ## Link
 - [My blog](https://www.windson.cc/)
