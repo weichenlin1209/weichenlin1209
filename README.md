@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Windson, a sophomore college student in Taiwan,major in Applied Math. Recently, I 'm focusing on CTF.
+I'm Windson, a sophomore college student in Taiwan,major in Applied Math.
 
 ## 🔧 Technologies & Tools
 - Linux
